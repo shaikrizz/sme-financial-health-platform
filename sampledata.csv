@@ -1,0 +1,28 @@
+Date,Category,Amount,Description
+2025-01-02,Revenue,120000,Product Sales
+2025-01-05,Revenue,45000,Online Orders
+2025-01-10,Expense,30000,Rent
+2025-01-12,Expense,25000,Salaries
+2025-01-18,Expense,8000,Electricity
+2025-01-22,Expense,5000,Marketing
+
+2025-02-03,Revenue,135000,Product Sales
+2025-02-06,Revenue,50000,Online Orders
+2025-02-11,Expense,30000,Rent
+2025-02-13,Expense,27000,Salaries
+2025-02-19,Expense,9000,Utilities
+2025-02-25,Expense,6000,Transport
+
+2025-03-01,Revenue,150000,Product Sales
+2025-03-04,Revenue,60000,Online Orders
+2025-03-09,Expense,32000,Rent
+2025-03-14,Expense,29000,Salaries
+2025-03-20,Expense,10000,Marketing
+2025-03-24,Expense,7000,Internet
+
+2025-04-02,Revenue,165000,Product Sales
+2025-04-05,Revenue,65000,Online Orders
+2025-04-10,Expense,32000,Rent
+2025-04-15,Expense,30000,Salaries
+2025-04-21,Expense,11000,Utilities
+2025-04-26,Expense,8000,Transport
